@@ -2,9 +2,9 @@ import React from "react";
 
 const Navbar = ( ) => {
     return (
-        <Navbar>
+        <div>
             <h1>Hello World</h1>
-        </Navbar>
+        </div>
     )
 };
 
